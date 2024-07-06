@@ -1,0 +1,18 @@
+--------------- NOTE ---------------
+
+------ video-1 ---------
+------ video-2 ---------
+------ video-3 ---------
+------ video-4 ---------
+------ video-5 ---------
+1. React router ==>  
+ (i) absolute path = 
+ (ii) relative path= Children er moddho relative path thake 
+ (iii) layout layer 
+ nb: index:true ==> for default parent path specific  component show
+
+------ video-6 ---------
+------ video-7 ---------
+------ video-8 ---------
+------ video-9 ---------
+------ video-10 ---------
